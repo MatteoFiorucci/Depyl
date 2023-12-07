@@ -21,19 +21,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
-// $(document).ready(function () {
-//   $.scrollify({
-//       section: ".section",
-//       easing: "easeOutExpo",
-//       scrollSpeed: 200,
-//       interstitialSection: "0.3",
-//       setHeights: false,
-//       updateHash: false, 
-//       touchScroll: true,
-//       before: function () {
-//       },
-//       after: function () {
-//       },
-//   });
-// });
+
 
