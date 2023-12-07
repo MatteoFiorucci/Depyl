@@ -1,0 +1,8 @@
+$font-stack: Poppins, Arial, sans-serif;
+$light-color: rgb(202, 230, 254);
+$primary-color: #00aeee;
+$secondary-color: rgb(30, 111, 153);
+$primary-color-lighter: lighten($primary-color, 60%);
+$light-color-lighter: lighten($light-color, 7%);
+
+$secondary-color-darker: darken($secondary-color, 10%);
